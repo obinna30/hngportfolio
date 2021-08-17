@@ -1,17 +1,18 @@
 import React from "react";
 import obinnaResume from "../pdf/obinnaResume.pdf";
+import piccc from "../pdf/piccc.jpeg";
 
 const About = () => {
-
-
   return (
     <section id="about">
       <div className="row">
         <div className="three columns">
           <img
             className="profile-pic"
-            src="https://jooinn.com/images/human-21.jpg"
+            src={piccc}
             alt="Profile Pic"
+            width="500"
+            height="500"
           />
         </div>
         <div className="nine columns main-col">
@@ -36,7 +37,7 @@ const About = () => {
             <div className="columns contact-details">
               <h2>Contact Details</h2>
               <p className="address">
-                <span>No. 20</span>
+                <span>No. 5</span>
                 <br />
                 <span>
                   Mbanefo Street

@@ -21,7 +21,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <Header />
+      <Header data={resumeData.main}/>
       <About />
       <Resume data={resumeData.resume} />
       <Portfolio data={resumeData.portfolio} />

@@ -42,6 +42,24 @@
         "url": "https://github.com/obinna30",
         "className": "fa fa-github"
       }
+    ],
+    "training": [
+      {
+        "name": "Zuri",
+        "url": "https://training.zuri.team/",
+        "logoLink": "https://blog.zuri.team/wp-content/uploads/2020/11/Favicon.png"
+      },
+      {
+        "name": "HNG",
+        "url": "https://hng.tech/",
+        "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESJVWNUahb0kxDOOUOlI-I7qC3ne0lGXhzcP-9HqDooKF5yHLNsW4-7LaTmymyxh95OA&usqp=CAU"
+      },
+      {
+        "name": "I4G",
+        "url": "hhttps://ingressive.org/",
+        "logoLink": "https://ingressive.org/wp-content/uploads/2020/08/I4G-Icon-Color-985x1024.png"
+      }
+      
     ]
   },
   "resume": {
@@ -56,9 +74,21 @@
     ],
     "work": [
       {
-        "company": "XEND TECH LIMITED COMPANY",
+        "company": "AFTJ SOLUTIONS LIMITED COMPANY",
+        "title": "Frontend Developer",
+        "years": "May 2021 - Present",
+        "description": "On a mission to change the world through coding."
+      },
+      {
+        "company": "VICSOFT SOLUTIONS ",
         "title": "Software Developer",
-        "years": "February 2021 - Present",
+        "years": "February 2021 - May 2021",
+        "description": "On a mission to change the world through coding."
+      },
+      {
+        "company": "UTOPIA TECH PTY ",
+        "title": "Software Developer",
+        "years": "Oct 2020 - FEbruary 2021",
         "description": "On a mission to change the world through coding."
       }
     ],
@@ -106,10 +136,10 @@
         "url": "https://movie-stream-8561e.web.app"
       },
       {
-        "title": "E-medCast   (React JS)",
+        "title": "1Automech   (React JS)",
         "category": "",
         "image": "e-med.png",
-        "url": "https://e-medcast.web.app"
+        "url": "https://1automech.com"
       }
       
     ]

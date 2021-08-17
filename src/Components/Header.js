@@ -1,7 +1,20 @@
 import React from "react";
 // import TypeWriter from "react-typewriter";
 
-const Header = () => {
+const Header = ({ data }) => {
+  if (data) {
+    var logos = data.training.map(function (training) {
+      return (
+        <li key={training.name}>
+          <a href={training.url}>
+            {/* <i className={network.className}></i> */}
+            <img src={training.logoLink} alt="" width="100" height="100" />
+          </a>
+        </li>
+      );
+    });
+  }
+
   return (
     <header id="home">
       <nav id="nav-wrap">
@@ -52,8 +65,12 @@ const Header = () => {
             {/* Based in {city}. <span>{occupation}</span>. {description}. */}
           </h3>
           <hr />
-          {/* <ul className="social">{networks}</ul> */}
+          <ul className="social">{logos}</ul>
         </div>
+        <p>
+        https://training.zuri.team/  {"      "}      https://hng.tech/  {"      "}
+        hhttps://ingressive.org/
+        </p>
       </div>
 
       <p className="scrolldown">
