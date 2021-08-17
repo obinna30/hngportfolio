@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "EKWEALOR, EMMANUEL",
+    "occupation": "Full-Stack Software Developer",
+    "description": "Hard working, dedicated and easy going developer",
+    "image": "pic2.jpg",
+    "bio": "Hi there! I am Emmanuel, a Full-Stack developer. I have a great ton of experience working with JavaScript and it's frameworks and libraries including REACT, REACT-REDUX, REACT CONTEXT API, NODE.JS, EXPRESS.JS, NEXT.JS. I also have a good understanding of some other frameworks and tools like MONGO DB, FIREBASE, FIREBASE-FIRESTORE, SWAGGER, POSTMAN. I'm very passionate and determined developer and I have showcased it in the amount of devotion I put in developing my projects because i believe that's the best way to express myself.",
+    "contactmessage": "Get in touch with me for collaborations to change the world together",
+    "email": "ekwealorobinna@yaho.com",
+    "phone": "+234 706 547 7408",
+    "address": {
+      "street": "no 5 Mbanefo Street, New heaven",
+      "city": "Enugu",
+      "state": "Enugu",
+      "zip": "101245"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Ekwealor_obinna",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/obinna.ekwealor.9/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/emmanuel-obinna-40b297128/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/oblings_official/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/obinna30",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Nigeria Nsukka",
+        "degree": "Bachelor's Degree",
+        "graduated": "february 2017",
+        "description": "Graduated with Distinctions"
+      }
+    ],
+    "work": [
+      {
+        "company": "XEND TECH LIMITED COMPANY",
+        "title": "Software Developer",
+        "years": "February 2021 - Present",
+        "description": "On a mission to change the world through coding."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React.Js",
+        "level": "70%"
+      },
+      {
+        "name": "Nodejs/Expressjs",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Cathys Collection Store    (React JS)",
+        "category": "",
+        "image": "cathy.png",
+        "url": "https://www.cathyscollectionstore.com"
+      },
+      {
+        "title": "Zamdal   (React JS)",
+        "category": "",
+        "image": "zamdal.png",
+        "url": "https://zamdal-5ba63.web.app"
+      },
+      {
+        "title": "movie stream   (React JS)",
+        "category": "",
+        "image": "stream.png",
+        "url": "https://movie-stream-8561e.web.app"
+      },
+      {
+        "title": "E-medCast   (React JS)",
+        "category": "",
+        "image": "e-med.png",
+        "url": "https://e-medcast.web.app"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Obinna is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Ebuka"
+      },
+      {
+        "text": "Working with Emmanuel has been AWESOME, he makes the makes the working environment lively and he is approachable.",
+        "user": "Desmond"
+      }
+    ]
+  }
+}
