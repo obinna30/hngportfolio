@@ -5,6 +5,8 @@ import About from "./Components/About";
 import { useEffect, useState } from "react";
 import Resume from "./Components/Resume";
 import Portfolio from "./Components/Portfolio";
+import Contact from "./Components/Contact";
+import Footer from "./Components/Footer";
 
 const App = () => {
   const [resumeData, setResumeData] = useState({});
@@ -23,6 +25,8 @@ const App = () => {
       <About />
       <Resume data={resumeData.resume} />
       <Portfolio data={resumeData.portfolio} />
+      <Contact data={resumeData.main} />
+      <Footer data={resumeData.main} />
     </div>
   );
 };

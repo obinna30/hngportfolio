@@ -2,8 +2,6 @@ import React from "react";
 // import TypeWriter from "react-typewriter";
 
 const Header = () => {
-  
-
   return (
     <header id="home">
       <nav id="nav-wrap">
@@ -36,11 +34,6 @@ const Header = () => {
             </a>
           </li>
           <li>
-            <a className="smoothscroll" href="#testimonials">
-              Testimonials
-            </a>
-          </li>
-          <li>
             <a className="smoothscroll" href="#contact">
               Contact
             </a>
@@ -55,7 +48,7 @@ const Header = () => {
             {/* <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter> */}
           </h1>
           <h3>
-            Frontend Developer currently undergoing HNG Internship 
+            Frontend Developer currently undergoing HNG Internship
             {/* Based in {city}. <span>{occupation}</span>. {description}. */}
           </h3>
           <hr />
